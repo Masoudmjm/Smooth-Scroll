@@ -1,4 +1,4 @@
-package com.masoudjafari.rubika.adapter
+package com.masoudjafari.SmoothScroll.adapter
 
 import android.content.Context
 import android.util.DisplayMetrics
@@ -9,10 +9,10 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.LinearSmoothScroller
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.SmoothScroller
-import com.masoudjafari.rubika.dataClass.MovieList
-import com.masoudjafari.rubika.databinding.ItemListBinding
-import com.masoudjafari.rubika.util.RecyclerItemClickListener
-import com.masoudjafari.rubika.util.SpeedyLinearLayoutManager
+import com.masoudjafari.SmoothScroll.dataClass.MovieList
+import com.masoudjafari.SmoothScroll.databinding.ItemListBinding
+import com.masoudjafari.SmoothScroll.util.RecyclerItemClickListener
+import com.masoudjafari.SmoothScroll.util.SpeedyLinearLayoutManager
 import java.util.*
 
 class ListAdapter : RecyclerView.Adapter<ListAdapterViewHolder>() {

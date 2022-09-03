@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.masoudjafari.rubika"
+        applicationId "com.masoudjafari.SmoothScroll"
         minSdk 21
         targetSdk 32
         versionCode 1

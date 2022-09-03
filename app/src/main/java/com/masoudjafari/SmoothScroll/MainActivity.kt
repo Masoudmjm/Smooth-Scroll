@@ -1,13 +1,13 @@
-package com.masoudjafari.rubika
+package com.masoudjafari.SmoothScroll
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.masoudjafari.rubika.adapter.ListAdapter
-import com.masoudjafari.rubika.dataClass.Movie
-import com.masoudjafari.rubika.dataClass.MovieList
-import com.masoudjafari.rubika.databinding.ActivityMainBinding
+import com.masoudjafari.SmoothScroll.adapter.ListAdapter
+import com.masoudjafari.SmoothScroll.dataClass.Movie
+import com.masoudjafari.SmoothScroll.dataClass.MovieList
+import com.masoudjafari.SmoothScroll.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

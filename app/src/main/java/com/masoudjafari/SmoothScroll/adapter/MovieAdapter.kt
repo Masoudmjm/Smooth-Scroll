@@ -1,11 +1,11 @@
-package com.masoudjafari.rubika.adapter
+package com.masoudjafari.SmoothScroll.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.masoudjafari.rubika.R
-import com.masoudjafari.rubika.dataClass.Movie
-import com.masoudjafari.rubika.databinding.ItemMovieBinding
+import com.masoudjafari.SmoothScroll.R
+import com.masoudjafari.SmoothScroll.dataClass.Movie
+import com.masoudjafari.SmoothScroll.databinding.ItemMovieBinding
 
 class MovieAdapter : RecyclerView.Adapter<ViewHolder>() {
 

@@ -1,4 +1,4 @@
-package com.masoudjafari.rubika.util
+package com.masoudjafari.SmoothScroll.util
 
 import android.content.Context
 import android.graphics.PointF
